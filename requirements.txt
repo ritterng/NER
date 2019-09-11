@@ -6,7 +6,7 @@ h5py==2.8.0
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 Markdown==3.0.1
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 pandas==0.23.4
 pip==18.1
@@ -17,7 +17,7 @@ setuptools==40.6.2
 singledispatch==3.4.0.3
 six==1.12.0
 tensorboard==1.12.0
-tensorflow==1.12.0
+tensorflow==1.12.1
 termcolor==1.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wheel==0.32.3
