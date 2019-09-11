@@ -1,0 +1,65 @@
+CARDINAL: 3
+PERSON: Shelley Charlton
+DATE: two years ago
+ORG: Microsoft Philanthropies’ TEALS (Technology Education
+ORG: Computer Science Education
+CARDINAL: 1.4 million
+GPE: U.S.
+GPE: U.S.
+CARDINAL: less than a third
+PERCENT: Only 40 percent
+GPE: U.S.
+ORDINAL: 10th
+ORG: Microsoft
+ORG: Microsoft
+DATE: Monday
+MONEY: an additional $10 million
+GPE: U.S.
+CARDINAL: two
+PERSON: Mary Snapp,
+ORG: CS Ed
+CARDINAL: 500
+GPE: U.S.
+NORP: British
+PERSON: Shelley
+PERSON: Matt Charlton
+PERSON: Shelley
+PERSON: Matt Charlton
+PERSON: Charlton
+LOC: the Lake Chelan School District
+LOC: Lake Chelan
+CARDINAL: 4,000
+PERSON: Charlton
+PERSON: Matt Charlton,
+QUANTITY: about eight miles
+PERSON: Matt Charlton
+DATE: about six years
+PERSON: Manson
+PERSON: Matt Charlton
+CARDINAL: 1,500
+CARDINAL: nearly 700
+LOC: Silicon Valley
+PERSON: Nancy Ureña Reid
+ORG: Lincoln High School
+GPE: San
+PERCENT: 60 percent
+CARDINAL: 1,900
+PERSON: Nancy Ureña
+CARDINAL: one
+FAC: Abraham Lincoln High School
+GPE: San
+PERSON: Reid
+CARDINAL: more than 400
+LOC: the Bay Area
+PERSON: Reid
+FAC: Frederick Douglass Elementary School
+ORDINAL: fifth
+ORG: the Dallas Independent School District’s
+DATE: the 35th percentile four years ago
+ORDINAL: 90th
+PERSON: Frederick Douglass
+PERSON: Frederick Douglass Elementary
+GPE: Texas
+PERSON: Shelley
+GPE: Washington
+FAC: Lake Chelan High

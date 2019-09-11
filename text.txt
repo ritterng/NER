@@ -1,0 +1,74 @@
+﻿
+Cracking the code to helping educators learn and teach computer science
+3 December, 2018
+If you gave Shelley Charlton an Excel spreadsheet to maneuver, the high school business teacher could dazzle you. But if you asked her how to solve a problem using the Snap! visual programming language, not so much. That is, until she started teaching computer science two years ago with the help of Microsoft Philanthropies’ TEALS (Technology Education and Literacy in Schools) program.
+
+“I am living proof. If you can teach me computer science, then you can teach anyone else,” says Charlton. “That was so not my mindset before. This was just scary and overwhelming to me until I started working with TEALS.”
+
+Classrooms around the globe are now celebrating Computer Science Education Week, which is dedicated to inspiring K-12 students to take an interest in computer science and to raising awareness about why all students need equitable access to high-quality computer science education.
+
+
+There will be 1.4 million computer science-related jobs in the U.S. by 2020, yet right now, U.S. college graduates are expected to fill less than a third of them. Only 40 percent of U.S. schools offer computer science classes with computer programming, with many school officials citing a shortage of teachers with the necessary skills as a key reason for this gap.
+
+Now in its 10th year, TEALS’ mission is to close this gap. Microsoft also supports the efforts of schools and communities around the world in this work, and specifically, the efforts of Code.org. Microsoft announced Monday that it would invest an additional $10 million to help expand the nonprofit’s work helping students from kindergarten to high school learn the skills — not just coding but problem-solving, resiliency and creativity — that will be key in careers across nearly all sectors and industries. The renewed partnership will focus on ensuring that by 2020 every state will have passed policies to expand access to computer science and every school in the U.S. will have access to Code.org professional development.
+
+With TEALS, teachers learn in tandem with the students, taught by computer science (CS) professionals who volunteer to help team teach the class. Then, over a period of two school years, the classroom teachers gradually take over the responsibilities of teaching the classes on their own.
+
+“We believe that every student should have an opportunity to take computer science, and that the skills learned should set students up to be future ready,” says Mary Snapp, corporate vice president and head of Microsoft Philanthropies.
+
+All those volunteers who come to help my students, they love what they do, and they want to share that knowledge.
+
+“Microsoft is committed to supporting computer science by investing deeply in programs to help schools grow their computer science classes, creating curriculum and tools to teach computer science in engaging and creative ways, and working hand-in-hand with nonprofit partners and educators,” Snapp says. “We do this by running our own CS Ed programs, such as TEALS, and partnering closely with groups like Code.org that are leading the effort to broaden access to computer science education.”
+
+TEALS supports nearly 500 high schools in the U.S. and recently expanded to British Columbia, Canada. Teachers and schools in urban and rural areas, large and small, benefit from the program, which in turn helps them have a big impact on kids’ lives and career potential.
+
+Shelley and Matt Charlton
+Educators and spouses Shelley and Matt Charlton work in different but nearby school districts in rural Washington, and each helped bring TEALS to their schools.
+Charlton teaches in the Lake Chelan School District in central Washington state. Lake Chelan is a rural community where the area’s apple orchards and packing facilities employ many of the city of Chelan’s 4,000 residents.
+
+Charlton is married to Matt Charlton, superintendent of Manson School District. Manson, population 1,400, is about eight miles from Chelan, and it was Matt Charlton who helped bring TEALS to high school students there about six years ago.
+
+“Coding and computer science really weren’t part of my vernacular; I didn’t really know a lot about it,” he says. What he did know is that “it was another language that kids needed, because of the job opportunities for them.”
+
+Now computer science is a requirement for every freshman of both Chelan and Manson high schools, creating a challenge to find trained educators to teach the subject. TEALS provides “a wonderful level of support, with the teachers learning alongside the kids,” he says. “They make it quite easy — they really do set you up for success.”
+
+Matt Charlton can’t say enough about the volunteer instructors — over 1,500 tech professionals from nearly 700 companies, including Microsoft, Amazon and Google — who help to teach computer science in high schools across the country.
+
+“It’s almost a calling for many of them,” he says. “I’ve been impressed with their commitment to helping to develop not only future programmers and coders, but also a commitment to our school and to kids who otherwise wouldn’t have access to this type of instruction.”
+
+
+At a high school in Silicon Valley in California, you might think all the students are tech-savvy and that they zip around on hoverboards. After all, they live in the heart of a region that’s home to some of the world’s major tech companies.
+
+Nancy Ureña Reid knows better. She’s the computer science and math teacher at Lincoln High School in San Jose, where 60 percent of the school’s 1,900 students qualify for subsidized lunches. Most of their parents don’t work in the tech field.
+
+A teacher works with a student
+Teacher Nancy Ureña Reid, right, works with one of her students in an introduction to computer science class at Abraham Lincoln High School in San Jose, California.
+With TEALS’ help, Ureña Reid learned how to teach introductory computer science to more than 400 students since 2014.
+
+“As a result of the support I received from TEALS, I gained much confidence to offer more computer science programs at my school and in the Bay Area community,” Ureña Reid says.
+
+She speaks of the real-world experience TEALS volunteers bring into the classroom, as well as their passion for the field.
+
+“All those volunteers who come to help my students, they love what they do, and they want to share that knowledge,” Ureña Reid says. “For a student to see that, and not just hear about it from their parents or teachers, but to hear about it from someone who loves what they do — that’s powerful.”
+
+At Frederick Douglass Elementary School in Dallas, children from pre-kindergarten through fifth grade learn how to be computational thinkers and problem solvers, benefitting from a combination of education from Code.org and the Dallas Independent School District’s science, technology, engineering and math (STEM) programs.
+
+
+Because of the programs and teachers willing to embrace learning how to teach the topic, school Principal Marquetta Masters has seen students’ science scores soar from the 35th percentile four years ago to the 90th percentile.
+
+“Sometimes our students are not fortunate to have computers at home, but we give them the experience of the technological society that they live in, and I think that’s something that’s very important for our campus and for our district,” Masters says.
+
+“One of the biggest reasons we started a computer science curriculum involves giving all students an opportunity to be successful, as well as it allows them to be computational thinkers, problem solvers,” she says.
+
+Frederick Douglass school prinicpal and students
+Frederick Douglass Elementary School Principal Marquetta Masters with students at the Dallas, Texas school.
+“We believe computer science should be offered at an early age because it helps students build confidence, connect to the world in which they live, and it provides the skills needed to be productive in any career path they choose.”
+
+Shelley Charlton, the teacher in Washington who once felt intimidated by the idea of teaching computer science, now hopes to bring an Advanced Placement computer science class to Lake Chelan High next year.
+
+Computer science education teaches students how to “come up with a plan, implement it, have it go horribly wrong, fix it — then try again,” she says. “That process, that resiliency, is the best skill we can give them.”
+
+To find out what you can do to bring computer science to your community, go to Code.org/help.
+
+For more information on TEALS or to inquire about volunteering, go to https://www.microsoft.com/en-us/digital-skills/TEALS
+
