@@ -13,7 +13,7 @@ pip==18.1
 protobuf==3.6.1
 python-dateutil==2.7.5
 pytz==2018.7
-setuptools==40.6.2
+setuptools==65.5.1
 singledispatch==3.4.0.3
 six==1.12.0
 tensorboard==1.12.0
